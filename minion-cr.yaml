@@ -1,0 +1,7 @@
+apiVersion: example.com/v1
+kind: Minion
+metadata:
+  name: my-minion
+spec:
+  replicas: 3
+  version: "v1.0"
